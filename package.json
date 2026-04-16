@@ -1,6 +1,6 @@
 {
   "name": "@summyer/mcp-stdio-toolkit",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "A reusable stdio MCP server toolkit with extensible tools",
   "repository": {
     "type": "git",
