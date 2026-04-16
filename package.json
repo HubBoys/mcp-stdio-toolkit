@@ -1,0 +1,29 @@
+{
+  "name": "@summyer/mcp-stdio-toolkit",
+  "version": "0.3.0",
+  "description": "A reusable stdio MCP server toolkit with extensible tools",
+  "main": "src/index.js",
+  "bin": {
+    "mcp-stdio-toolkit": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "stdio",
+    "toolkit",
+    "hmac",
+    "sign"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "crypto-js": "^4.2.0"
+  }
+}
