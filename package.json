@@ -2,6 +2,10 @@
   "name": "@summyer/mcp-stdio-toolkit",
   "version": "0.3.4",
   "description": "A reusable stdio MCP server toolkit with extensible tools",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HubBoys/mcp-stdio-toolkit.git"
+  },
   "main": "src/index.js",
   "bin": {
     "mcp-stdio-toolkit": "src/index.js"
